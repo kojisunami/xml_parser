@@ -1,0 +1,38 @@
+<!DOCTYPE game>
+
+<game>
+<person>
+<id value="ally"></id>
+<name value="fighter"></name>
+<lv value="1"></lv>
+<img value="clinton.jpg"></img>
+<hp value="160"></hp>
+<mp value="50"></mp>
+<atk value="40"></atk>
+<def value="20"></def>
+</person>
+
+<person>
+<id value="enemy"></id>
+<name value="fighter"></name>
+<img value="clinton.jpg"></img>
+<lv value="1"></lv>
+<hp value="100"></hp>
+<mp value="30"></mp>
+<atk value="30"></atk>
+<def value="10"></def>
+</person>
+
+<person>
+<id value="enemy"></id>
+<img value="trump.jpg"></img>
+<name value="archer"></name>
+<lv value="1"></lv>
+<hp value="100"></hp>
+<mp value="30"></mp>
+<atk value="30"></atk>
+<def value="10"></def>
+</person>
+</game>
+
+
